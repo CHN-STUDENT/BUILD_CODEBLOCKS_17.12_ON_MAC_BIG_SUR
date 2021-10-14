@@ -17,8 +17,8 @@
 安装 显示支持库和构建环境。
 
 1. Downloading [XQuartz](https://www.xquartz.org/) and installing, you have to logout desktop and login again. 
-2. 
-3. Downloading [MacPorts](https://www.macports.org/install.php) and installing, you have to choose currently version
+
+2. Downloading [MacPorts](https://www.macports.org/install.php) and installing, you have to choose currently version
 
 下载安装以上适合您系统的两个依赖环境，其中 XQuartz 需要重新登出登陆桌面后有效。
 
